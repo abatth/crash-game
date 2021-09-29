@@ -1,0 +1,27 @@
+C:\Users\abatt\OneDrive\Documents\NAIT\Winter semester 2019\OOP\Lab3_ABatth\Lab3_ABatth\bin\Debug\Lab3_ABatth.exe.config
+C:\Users\abatt\OneDrive\Documents\NAIT\Winter semester 2019\OOP\Lab3_ABatth\Lab3_ABatth\bin\Debug\Lab3_ABatth.exe
+C:\Users\abatt\OneDrive\Documents\NAIT\Winter semester 2019\OOP\Lab3_ABatth\Lab3_ABatth\bin\Debug\Lab3_ABatth.pdb
+C:\Users\abatt\OneDrive\Documents\NAIT\Winter semester 2019\OOP\Lab3_ABatth\Lab3_ABatth\bin\Debug\Drawer_Lab3.dll
+C:\Users\abatt\OneDrive\Documents\NAIT\Winter semester 2019\OOP\Lab3_ABatth\Lab3_ABatth\bin\Debug\GDIDrawer.dll
+C:\Users\abatt\OneDrive\Documents\NAIT\Winter semester 2019\OOP\Lab3_ABatth\Lab3_ABatth\bin\Debug\Drawer_Lab3.pdb
+C:\Users\abatt\OneDrive\Documents\NAIT\Winter semester 2019\OOP\Lab3_ABatth\Lab3_ABatth\obj\Debug\Lab3_ABatth.csprojAssemblyReference.cache
+C:\Users\abatt\OneDrive\Documents\NAIT\Winter semester 2019\OOP\Lab3_ABatth\Lab3_ABatth\obj\Debug\Lab3_ABatth.Properties.Resources.resources
+C:\Users\abatt\OneDrive\Documents\NAIT\Winter semester 2019\OOP\Lab3_ABatth\Lab3_ABatth\obj\Debug\Lab3_ABatth.csproj.GenerateResource.cache
+C:\Users\abatt\OneDrive\Documents\NAIT\Winter semester 2019\OOP\Lab3_ABatth\Lab3_ABatth\obj\Debug\Lab3_ABatth.csproj.CoreCompileInputs.cache
+C:\Users\abatt\OneDrive\Documents\NAIT\Winter semester 2019\OOP\Lab3_ABatth\Lab3_ABatth\obj\Debug\Lab3_ABatth.csproj.CopyComplete
+C:\Users\abatt\OneDrive\Documents\NAIT\Winter semester 2019\OOP\Lab3_ABatth\Lab3_ABatth\obj\Debug\Lab3_ABatth.exe
+C:\Users\abatt\OneDrive\Documents\NAIT\Winter semester 2019\OOP\Lab3_ABatth\Lab3_ABatth\obj\Debug\Lab3_ABatth.pdb
+C:\Users\abatt\OneDrive\Documents\NAIT\Winter semester 2019\OOP\Lab3_ABatth\Lab3_ABatth\obj\Debug\Lab3_ABatth.Form1.resources
+C:\Users\abatt\OneDrive\Documents\NAIT\Second year\Winter semester 2019\OOP\Lab3_ABatth\Lab3_ABatth\bin\Debug\Lab3_ABatth.exe.config
+C:\Users\abatt\OneDrive\Documents\NAIT\Second year\Winter semester 2019\OOP\Lab3_ABatth\Lab3_ABatth\bin\Debug\Lab3_ABatth.exe
+C:\Users\abatt\OneDrive\Documents\NAIT\Second year\Winter semester 2019\OOP\Lab3_ABatth\Lab3_ABatth\bin\Debug\Lab3_ABatth.pdb
+C:\Users\abatt\OneDrive\Documents\NAIT\Second year\Winter semester 2019\OOP\Lab3_ABatth\Lab3_ABatth\bin\Debug\Drawer_Lab3.dll
+C:\Users\abatt\OneDrive\Documents\NAIT\Second year\Winter semester 2019\OOP\Lab3_ABatth\Lab3_ABatth\bin\Debug\Drawer_Lab3.pdb
+C:\Users\abatt\OneDrive\Documents\NAIT\Second year\Winter semester 2019\OOP\Lab3_ABatth\Lab3_ABatth\obj\Debug\Lab3_ABatth.csprojAssemblyReference.cache
+C:\Users\abatt\OneDrive\Documents\NAIT\Second year\Winter semester 2019\OOP\Lab3_ABatth\Lab3_ABatth\obj\Debug\Lab3_ABatth.Form1.resources
+C:\Users\abatt\OneDrive\Documents\NAIT\Second year\Winter semester 2019\OOP\Lab3_ABatth\Lab3_ABatth\obj\Debug\Lab3_ABatth.Properties.Resources.resources
+C:\Users\abatt\OneDrive\Documents\NAIT\Second year\Winter semester 2019\OOP\Lab3_ABatth\Lab3_ABatth\obj\Debug\Lab3_ABatth.csproj.GenerateResource.cache
+C:\Users\abatt\OneDrive\Documents\NAIT\Second year\Winter semester 2019\OOP\Lab3_ABatth\Lab3_ABatth\obj\Debug\Lab3_ABatth.csproj.CoreCompileInputs.cache
+C:\Users\abatt\OneDrive\Documents\NAIT\Second year\Winter semester 2019\OOP\Lab3_ABatth\Lab3_ABatth\obj\Debug\Lab3_ABatth.csproj.CopyComplete
+C:\Users\abatt\OneDrive\Documents\NAIT\Second year\Winter semester 2019\OOP\Lab3_ABatth\Lab3_ABatth\obj\Debug\Lab3_ABatth.exe
+C:\Users\abatt\OneDrive\Documents\NAIT\Second year\Winter semester 2019\OOP\Lab3_ABatth\Lab3_ABatth\obj\Debug\Lab3_ABatth.pdb
